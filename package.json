@@ -1,0 +1,22 @@
+{
+    "name": "h5-pure-js",
+    "version": "1.0.0",
+    "description": "### 纯JS实现H5页面开发的mini框架",
+    "main": "index.js",
+    "scripts": {
+        "build": "rollup -c"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fedhong/h5-pure-js.git"
+    },
+    "author": "fedhong",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fedhong/h5-pure-js/issues"
+    },
+    "homepage": "https://github.com/fedhong/h5-pure-js#readme",
+    "devDependencies": {
+        "rollup": "2.60.2"
+    }
+}
