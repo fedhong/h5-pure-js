@@ -1,6 +1,6 @@
 {
     "name": "h5-pure-js",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "### 纯JS实现H5页面开发的mini框架",
     "main": "index.js",
     "scripts": {
